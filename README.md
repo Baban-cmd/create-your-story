@@ -60,4 +60,6 @@ You can simply Deploy Your Own version of the Project on Platforms like Vercel, 
 
 ## License
 
+This Project comes under the Apaque 2.0 License. To Know more about this, Open the LICENSE File in the Repository or Visit http://www.apache.org/licenses/
 
+Happy Coding!
