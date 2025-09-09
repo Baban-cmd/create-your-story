@@ -1,22 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to Story Generator
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/a1e84bdc-45d2-4794-9343-ebf70d8ddbb1
+This Project is creating using react, vite, typescript, etc and the central purpose of this project is that it can Generate Stories for you with 
 
-## How can I edit this code?
+your Custom Characters. Basically You enter Your Idea and AI Turns it into a Story with in-moment dialogues in a Messaging App-like Interface, 
 
-There are several ways of editing your application.
+You can Customize, Modify and Rebrand this project as you want. This Project Comes under the Apaque 2.0 License.
 
-**Use Lovable**
+**Edit this Project**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a1e84bdc-45d2-4794-9343-ebf70d8ddbb1) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+You can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -60,14 +54,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How can I deploy the project?
 
-Simply open [Lovable](https://lovable.dev/projects/a1e84bdc-45d2-4794-9343-ebf70d8ddbb1) and click on Share -> Publish.
+You can simply Deploy Your Own version of the Project on Platforms like Vercel, Netlify or Any other Platforms you like.
 
-## Can I connect a custom domain to my Lovable project?
+## License
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
