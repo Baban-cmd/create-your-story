@@ -4,11 +4,7 @@
 
 ## Project info
 
-This Project is creating using react, vite, typescript, etc and the central purpose of this project is that it can Generate Stories for you with 
-
-your Custom Characters. Basically You enter Your Idea and AI Turns it into a Story with in-moment dialogues in a Messaging App-like Interface, 
-
-You can Customize, Modify and Rebrand this project as you want. This Project Comes under the Apaque 2.0 License.
+This Project is creating using react, vite, typescript, etc and the central purpose of this project is that it can Generate Stories for you with your Custom Characters. Basically You enter Your Idea and AI Turns it into a Story with in-moment dialogues in a Messaging App-like Interface, You can Customize, Modify and Rebrand this project as you want. This Project Comes under the Apaque 2.0 License.
 
 **Edit this Project**
 
