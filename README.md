@@ -1,6 +1,6 @@
-# Welcome to Story Generator
-
 ![Project Screenshot](https://i.ibb.co/vxHhPQ07/Screenshot-2025-09-09-at-5-52-47-PM.png)
+
+# Welcome to Story Generator
 
 ## Project info
 
