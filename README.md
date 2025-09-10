@@ -1,4 +1,4 @@
-![Project Screenshot](https://i.ibb.co/vxHhPQ07/Screenshot-2025-09-09-at-5-52-47-PM.png)
+![Project Screenshot](https://i.ibb.co/84n69RzH/Screenshot-2025-09-09-at-5-23-23-PM.png)
 
 # Welcome to Story Generator
 
