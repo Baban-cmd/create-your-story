@@ -1,6 +1,6 @@
 # Welcome to Story Generator
 
-![Project Banner]([https://example.com/my-image.png](https://i.ibb.co/vxHhPQ07/Screenshot-2025-09-09-at-5-52-47-PM.png)
+![Project Banner]([https://example.com/my-image.png](https://i.ibb.co/vxHhPQ07/Screenshot-2025-09-09-at-5-52-47-PM.png))
 
 ## Project info
 
