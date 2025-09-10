@@ -1,5 +1,7 @@
 # Welcome to Story Generator
 
+![Project Banner](https://example.com/my-image.png)
+
 ## Project info
 
 This Project is creating using react, vite, typescript, etc and the central purpose of this project is that it can Generate Stories for you with 
